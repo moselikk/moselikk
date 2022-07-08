@@ -2,8 +2,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Edu+QLD+Beginner&duration=6500&color=4AB4D0&background=FFFFFF00&lines=Welcome+to+my+coding+space.)](https://moselikk.com/)
 
 <!--my introduction start -->
-
-***
 - 🔩 I am an automation engineer working with hydraulic systems and motors on a daily basis..
 - 🖥️ I like programming so started to learn web development skills last year, and I am motivated to become a mature programmer to develop interesting, fun and practical programs.
 - ❤️ My hobbies: music & reading and some unpopular hobbies like learning music production or web debugging.
@@ -19,9 +17,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moselikk&layout=compact" alt="languages"  width="60%">
   </a>
 </p>
-
----
-
+<hr />
 <h3 align="center" >Tools and Environments</h3>
 
 <p align="center">
