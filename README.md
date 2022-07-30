@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Edu+QLD+Beginner&duration=6500&color=4AB4D0&background=FFFFFF00&lines=Welcome+to+my+coding+space.)](https://moselikk.com/)
 
 <!--my introduction start -->
-- 🔩 I am committed to become a professional programmer to develop interesting, fun and practical programs used for everyone.
+- 🔩 I am committed to becoming a more professional programmer and developing interesting, fun and useful programs for everyone to use.
 - ❤️ My hobbies: music & reading & some minority hobbies like music production and net debugging.
 - 💬 There is my blog you can stroll through maybe get to know me better.
 
