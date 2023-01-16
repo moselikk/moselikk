@@ -1,6 +1,6 @@
 ## Hi, 👋  I'm <a href="https://moselikk.com/" target="_blank">Lee</a>
 
-<img align="right" width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=moselikk&show_icons=true&hide_border=true" />
+<img align="right" width="50%" align="right" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=moselikk&show_icons=true&hide_border=true" />
 <img width="40%" src="https://readme-typing-svg.herokuapp.com?font=Edu+QLD+Beginner&duration=6500&color=4AB4D0&background=FFFFFF00&lines=Welcome+to+my+coding+space." />
 <p> 〽️ Sometimes I may look dull. But when you get to know me better you'll see that I'm pretty interesting in fact.</p>
 <p> 💾 &nbsp<a href="https://www.moselikk.com">moselikk's blog</a></p>
