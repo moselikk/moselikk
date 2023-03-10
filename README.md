@@ -1,4 +1,4 @@
-## Hi, 👋  I'm <a href="https://moselikk.com/" target="_blank">Lee</a>
+## Hi, 👋
 
 <img align="right" width="50%" align="right" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=moselikk&show_icons=true&hide_border=true" />
 <img width="40%" src="https://readme-typing-svg.herokuapp.com?font=Edu+QLD+Beginner&duration=6500&color=4AB4D0&background=FFFFFF00&lines=Welcome+to+my+coding+space." />
