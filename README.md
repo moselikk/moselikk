@@ -8,8 +8,8 @@
 <p> 💾 &nbsp<a href="https://www.moselikk.com">moselikk's blog</a></p>
 <p> 🐇 &nbsp<a href="https://www.amiibowiki.com">amiibowiki</a></p>
 
-<h4 align="center" width="50%" >Tools and Environments</h4>
-<p align="center" width="50%">
+<h4 align="left" width="50%" >Tools and Environments</h4>
+<p align="left" width="50%">
 <!--<code><img height="35" src="./static/vscode.png" alt="VSCode" title="VSCode"></code>-->
 <code><img height="35" src="./static/react.svg" alt="React" title="React"></code>
 <code><img height="35" src="./static/vue.png" alt="Vue" title="Vue"></code>
